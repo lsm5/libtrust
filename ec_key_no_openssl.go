@@ -1,5 +1,3 @@
-// +build !libtrust_openssl
-
 package libtrust
 
 import (
